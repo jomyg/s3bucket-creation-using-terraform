@@ -1,4 +1,4 @@
-# S3 Bucket | Simple Storage Service (AWS)
+# S3 Bucket using terraform | Simple Storage Service (AWS)
 [![Builds](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ---
